@@ -18,7 +18,8 @@ If you’ve never contributed to open source before, this is the perfect time to
 <br />
 
 # tempat-kontributor
-tempat kotribusi supaya dapet kaos partai 
+tempat kotribusi supaya dapet kaos partai
+TINGGAL UP AJAK PROJEKNYA 
 
 \
 <br />
